@@ -1,7 +1,6 @@
 # WP6-host-guest-binding
 This folder contains all charge models employed in our extensive end-point free energy calculations on the carboxylated-pillar[6]arene host-guest systems. 
 
-The full text of the paper can be acessed at the chemrxiv preprint server
 
 
 The AM1-BCC charge scheme performs AM1 optimization and then computes charges by combining AM1 Mulliken charges and BCC corrections. 
