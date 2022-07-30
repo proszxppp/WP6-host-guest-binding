@@ -1,5 +1,5 @@
 # WP6-host-guest-binding
-This folder contains all charge models employed in our extensive end-point free energy calculations on the carboxylated-pillar[6]arene host-guest systems. The full text of the manuscript can be accesssed at
+This folder contains initial conditions generated with molecular docking with two scoring functions and all charge sets employed in our extensive end-point free energy calculations on the carboxylated-pillar[6]arene host-guest systems. The full text of the manuscript can be accesssed at
 https://chemrxiv.org/engage/chemrxiv/article-details/62bc8a7a91954980dcd92eeb
 
 
