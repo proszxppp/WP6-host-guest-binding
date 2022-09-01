@@ -1,6 +1,6 @@
 # WP6-host-guest-binding
 This folder contains initial conditions generated with molecular docking with two scoring functions and all charge sets employed in our extensive end-point free energy calculations on the carboxylated-pillar[6]arene host-guest systems. The full text of the WP6 end-point series can be accesssed at
-1. the standard end-point procedure https://chemrxiv.org/engage/chemrxiv/article-details/62bc8a7a91954980dcd92eeb 
+1. The standard end-point procedure https://chemrxiv.org/engage/chemrxiv/article-details/62bc8a7a91954980dcd92eeb 
 2. Trained end-point scheme and dielectric constant https://chemrxiv.org/engage/chemrxiv/article-details/62c10e5852acb774027c6129
 3. TBA later
 
