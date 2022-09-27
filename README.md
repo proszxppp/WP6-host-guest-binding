@@ -4,6 +4,7 @@ This folder contains initial conditions generated with molecular docking with tw
 2. Trained end-point scheme and dielectric constant https://chemrxiv.org/engage/chemrxiv/article-details/62c10e5852acb774027c6129
 3. TBA later
 
+For the chemical structures presented in paper 1, there is a typo: G3 has a -NH3+ group rather than -NMe3+, but the chemical structures uploaded here (the current repository) are correct. 
 
 The AM1-BCC charge scheme performs AM1 optimization and then computes charges by combining AM1 Mulliken charges and BCC corrections. 
 
