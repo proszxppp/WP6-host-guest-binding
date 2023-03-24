@@ -6,7 +6,7 @@ This folder contains initial conditions generated with molecular docking with tw
 3. Force-field comparison, the relatively unpopular three-trajectory realization and a further advanced dielectric-constant-augmented regime https://chemrxiv.org/engage/chemrxiv/article-details/63049a3611986c398142dbb9 (published version https://www.mdpi.com/1420-3049/28/6/2767). 
 4. TBA later.
 
-For the chemical structures presented in paper 1, there is a typo: G3 has a -NH3+ group rather than -NMe3+, but the docking structures and parameter files uploaded here (the current repository) are correct. 
+For the chemical structures presented in paper 1, there is a typo: G3 has a -NH3+ group rather than -NMe3+, but the docking structures and parameter files uploaded here are correct. 
 
 The AM1-BCC charge scheme performs AM1 optimization and then computes charges by combining AM1 Mulliken charges and BCC corrections. 
 
