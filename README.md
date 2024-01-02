@@ -4,7 +4,7 @@ This folder contains initial conditions generated with molecular docking with tw
 (published version https://link.springer.com/article/10.1007/s10822-022-00475-0)
 2. Trained end-point scheme and dielectric constant https://chemrxiv.org/engage/chemrxiv/article-details/62c10e5852acb774027c6129 (published version https://link.springer.com/article/10.1007/s10822-022-00487-w)
 3. Force-field comparison, the relatively unpopular three-trajectory realization and a further advanced dielectric-constant-augmented regime https://chemrxiv.org/engage/chemrxiv/article-details/63049a3611986c398142dbb9 (published version https://www.mdpi.com/1420-3049/28/6/2767). 
-4. A very promising end-point modification named three-trajectory QM/GBSA regime provides astonishingly good prediction quality of the dataset, see https://www.mdpi.com/2673-8015/3/4/27.
+4. A very promising end-point modification named three-trajectory QM/GBSA (DFTB/GBSA) regime provides astonishingly good prediction quality of the dataset, see https://www.mdpi.com/2673-8015/3/4/27.
 5. TBA later. 
 
 The above-mentioned modified end-point procedures are applied in other host-guest datasets, see e.g. https://github.com/proszxppp/CBn-end-point-binding, 
