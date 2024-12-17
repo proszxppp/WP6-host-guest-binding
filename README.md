@@ -19,3 +19,5 @@ The free energy estimates obtained with all parameter combinations and end-point
 
 The initial bound configurations obtained from molecular docking with Autodock Vina are also provided here. Two scoring functions including Autodock4 and Vina are employed. Structural analyses presented in the first paper suggest significant differences between the docked structures produced by the two scoring functions. 
 
+In a very recent work, it has been recognized that all transferable force fields for WPn are problematic. The dynamics of the unbound host are incorrectly described, and force-field refitting seems necessary for accurate modelling of pillararene systems. So, the best practice from our perspective for pillararene host-guest modelling is download the FM parameter set available at https://github.com/proszxppp/Pillararenes for accurate descriptions of pillararene dynamics. 
+
